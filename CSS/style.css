@@ -1,0 +1,178 @@
+
+
+body {
+   background-color: #F0F8FF;
+   color: #40514e;
+   padding-left: 0;
+   font-weight: lighter;
+   line-height: 2;
+   }
+     
+   hr {
+       border-style: none;
+       border-top-style: dotted;
+       border-color:grey;
+       border-width:5px;
+       width: 5%;
+       margin-top: 100px;
+       padding-top: 100px;
+   }
+   h1 {
+       color: #66bfbf;
+       font-style: oblique;
+
+   }
+   h3{
+       color: #66bfbf;
+   }
+   .cloud{
+    margin-left: 790px;
+    margin-bottom: 0;
+    float: right;
+
+       
+   }
+   .cloud2{
+       margin-right: auto;
+       padding-bottom: 30px;
+   }
+   .mm{
+       height: 100px;
+       float: right;
+   }
+   .mm2{
+       float: left;
+       height: 100px;
+       margin-left: 20px;
+   }
+   p{
+       color: white;
+       width: 50%;
+       margin: auto;
+   }
+  .p1{
+      padding-bottom: 50px;
+    
+  }
+  .p2{
+      padding-top: 130px;
+      
+  }
+  
+
+   .image1 {
+    border-radius: 100%;
+    width: 100px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 170px;
+    margin-right: 20px;
+
+
+
+   }
+
+   .profile {
+       margin: 20px 0px 20px 20px;
+   }
+
+   .pbody {
+    background-color: #66bfbf;
+   }
+   .top{
+    background-color:#66bfbf;
+    margin-bottom: 100px;
+
+   }
+   .second{
+       width: 50%;
+       margin: auto;
+       padding-left: 250px;
+       padding-top: 70px;
+   }
+ 
+   .third{
+       width: 50%;
+       margin: auto;
+       padding-left: 250px;
+       padding-top: 60px;
+       
+   }
+   .forth{
+       width: 50%;
+       margin: auto;
+       padding-left: 250px;
+       padding-top: 100px;
+   }
+  
+   .footer{
+       padding: 70px 0 20px;
+       height: 90px;
+       color: hsl(180, 58%, 78%);
+        margin: 0;
+       text-align: center;
+       text-decoration: none;
+       background-color:#66bfbf ;
+       font-size: small;
+       font-family: sans-serif;
+
+   }
+   .mail{
+        box-shadow: 3px -3px 0px 0px #11999e;
+        background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+        background-color:#79bbff;
+        border-radius:8px;
+        border:1px solid #79bbff;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:arial;
+        font-size:20px;
+        font-weight:bold;
+        padding:12px 44px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #528ecc;
+        margin-left: 550px;
+    }
+    .mail:hover {
+        background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+        background-color:#378de5;
+    }
+    .mail:active {
+        position:relative;
+        top:1px;
+    
+}
+ 
+    .mail:hover {
+        color: black;
+    }
+    .mail:active {
+       color: rgb(184, 165, 214);
+       margin-top: 20px;
+       
+   }
+   .p5{
+       color: ivory;
+       font-size: x-small;
+       padding-top: 40px;
+   }
+
+
+
+   .a {
+       
+       margin: 12px;
+       text-align: center;
+       text-decoration: none;
+       padding-top: 20px;
+       color: cyan;
+      
+   }
+ 
+   a:hover{
+       color: white;
+   }
+   a:visited{
+       color: black;
+   }
